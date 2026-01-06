@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/Obsidian/Obsidian插件.md",
+                "file": "Excalidraw/Drawing 2026-01-07 01.26.04.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Obsidian插件"
+              "title": "Outline of Drawing 2026-01-07 01.26.04.excalidraw"
             }
           },
           {
@@ -217,13 +217,17 @@
       "markdown-importer:Open format converter": false,
       "obsidian-kanban:Create new board": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4385439c2cefba69",
+  "active": "520cae05b0c212b3",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "drafts/Obsidian/Obsidian插件.md",
+    "Excalidraw/Drawing 2026-01-07 01.26.04.excalidraw.md",
+    "Excalidraw",
+    "2026-01-07.md",
+    "Untitled.canvas",
     "drafts/README.md",
     "drafts/Obsidian",
     "Untitled",
